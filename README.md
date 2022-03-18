@@ -1,5 +1,7 @@
-# Horiseon
+# User accessibility website
 A website to show clients how to optimize, manage and market their business' through different enterprises i.e search engines and social media.
+![screen-gif](./02-Homework/Assets/homework-1.gif)
+[Accessibility Website](https://wmskillas.github.io/Homework-1/)
 # Site Information
 ## Header
 Optimization, Management, and Marketing, when clicked, will take you down to the corresponding section for ease of access.
